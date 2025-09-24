@@ -7,12 +7,12 @@ const config = {
 
   // 🏠 Home Page
   homeMessages: [
-    "Hi John Doe,", // First greeting message
-    "I have something to show you:)" // Second message that appears after clicking
+    "hi freak,", // First greeting message
+    "sdiybt ;)" // Second message that appears after clicking
   ],
 
   // 📸 Pictures Page  
-  picturesTitle: "You're Getting Old! :P", // Title displayed over the pictures
+  picturesTitle: "he ehehhhe hehehehe", // Title displayed over the pictures
   picturesLoadingText: "Loading images...", // Text shown while images are loading
   picturesMessage: "Add your own images by putting them in the assets folder and import them.", // Instructions for adding images
 
