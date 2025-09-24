@@ -8,7 +8,7 @@ const config = {
   // 🏠 Home Page
   homeMessages: [
     "hi freak,", // First greeting message
-    "sdiybt ;)" // Second message that appears after clicking
+    "sdiybt" // Second message that appears after clicking
   ],
 
   // 📸 Pictures Page  
